@@ -1,0 +1,95 @@
+* {padding: 0;margin: 0;}
+body {background-color: #f1f7fa;}
+#sheildimg {height: 20px;width: 20px;}
+#ecsr {font-family: cursive;
+  color: #76d3f7;
+  font-size: 18px;
+}
+#menubar {
+  background-color: #95cff7;
+  width: 100%;
+  height: 30px;
+  float: right;
+}
+.btns:hover {
+  background-color: #3922e1;
+  color: white;
+  cursor: pointer;
+  height: 30px;
+  padding: 3px;
+}
+.btns {
+  background-color: #95cff7;
+  size: 20px;
+  font-size: 20px;
+  border: none;
+  float: right;
+  margin-left: 15px;
+  padding: 3px;
+  margin-right:8px
+}
+#selfimg {
+  width: 350px;
+  height: 445px;
+  margin-left:4px;
+  margin-top:4px
+}
+#totalbottom {
+  width: 100%;
+  background-color: #5548b9;
+  height: 28px;
+}
+#totalbottomtext {
+  text-align: center;
+  color: white;
+  font-size: 10px;
+  padding-top: 10px;
+}
+#last2nd {
+  text-align: center;
+  background-color: #361cf1;
+  color: white;
+  height: 47px;
+  padding-top: 30px;
+}
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55acee;
+  color: white;
+  margin-left: 10px;
+}
+.fa-google {
+  background: #55acee;
+  color: white;
+  margin-left: 10px;
+}
+.fa-instagram {
+  background: #55acee;
+  color: white;
+  margin-left: 10px;
+}
+.fa-linkedin {
+  background: #55acee;
+  color: white;
+  margin-left: 10px;
+}
+.fa-github {
+  background: #55acee;
+  color: white;
+  margin-left: 10px;
+}
+#right {
+  width:100%;
+  margin-left:15px;
+  margin-top:8px;
+}
+#middle {
+  display: flex;
+  width: 100%;
+  margin-bottom:2px;
+}
+.heads{font-size:18px;color:#077BF7 }
+.mids{font-size:16px;color:#37BAEC }
